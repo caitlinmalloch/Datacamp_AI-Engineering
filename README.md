@@ -34,7 +34,5 @@ I’m completing this certification to:
 - Deep Learning with PyTorch
 - NLP with Hugging Face & LLMs (Llama 3, embeddings, fine-tuning)
 - Explainable AI (XAI) techniques
-
-MLOps (CI/CD, deployment, monitoring)
-
-Software Engineering (Git, testing, modular code)
+- MLOps (CI/CD, deployment, monitoring)
+- Software Engineering (Git, testing, modular code)
